@@ -19,7 +19,7 @@ might conflict with the dependencies of this package (e.g, geopandas)
 Submodule admin_boundaries contains functions to download and prepare administrative boundaries data.
 
 ```python
-from disruptsc-dataprep.admin_boundaries import search_country_by_keyword, get_country_admin_boundaries
+from dataprep.admin_boundaries import search_country_by_keyword, get_country_admin_boundaries
 ```
 
 There are two functions.

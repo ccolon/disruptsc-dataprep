@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="disruptsc-dataprep",
-    version="1.0.0",
+    version="1.0.1",
     description="Tools to help prepare data for the DisruptSC model.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
