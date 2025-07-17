@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="disruptsc-dataprep",
-    version="1.0.1",
+    version="1.0.2",
     description="Tools to help prepare data for the DisruptSC model.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
@@ -16,7 +16,7 @@ setup(
         "License :: Other/Proprietary License",
         "Operating System :: OS Independent",
     ],
-    python_requires=">=3.10",
+    python_requires=">=3.9, <3.10",
     install_requires=[
         "gadm==0.0.5"
     ],

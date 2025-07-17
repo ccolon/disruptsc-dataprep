@@ -1,0 +1,7 @@
+geopandas~=0.9.0
+pandas~=2.2.3
+shapely~=2.0.6
+tqdm~=4.64.1
+pycountry~=22.3.5
+gadm~=0.0.5
+setuptools~=75.3.0
